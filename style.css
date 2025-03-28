@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+:root {
+    --black: #141414;
+    --dark-grey: #1F1F1F;
+    --white: #FFF;
+    --neon-green: #C4F82A;
+    --grey: #333333;
+}
+
+body {
+    background-color: var(--black);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
