@@ -50,7 +50,7 @@ strong {
 
 p {
     margin-block: 24px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 ul, li {
@@ -64,7 +64,7 @@ a {
     padding: 12px;
     color: var(--white);
     text-decoration: none;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     border-radius: 8px;
 }
